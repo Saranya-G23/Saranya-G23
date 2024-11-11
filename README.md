@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saranya-G23
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Jquery, ReactJS, Vue.js, Angular Js
+- 🌱 I’m currently learning : Jquery, ReactJS, Vue.js, Angular Js
 - 💞️I’m looking to collaborate on projects that align with my goal of becoming a full-stack developer, where I can learn more about back-end development.
 - 📫 How to reach me saranyagopal432@gmail.com
 - 😄 Pronouns: she / her
